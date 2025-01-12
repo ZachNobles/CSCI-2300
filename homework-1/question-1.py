@@ -7,7 +7,7 @@ Homework 1, problem 1
 
 ### change stuff here ###
 
-INPUT = 5 #n, or how many times the function should run
+INPUT = 4 #n, or how many times the function should run
 
 #########################
 
