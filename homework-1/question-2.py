@@ -26,7 +26,7 @@ def bar(n):
     
     #0 to n-1, including n-1 but not n
     for i in range(n): 
-        bar(n-1)
+        bar(i)
     
     
 if __name__ == "__main__":
